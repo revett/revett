@@ -1,4 +1,10 @@
-### Hello ☕️
+👋 &nbsp;**Hello**&nbsp;&nbsp;&nbsp;  🐦 &nbsp;[Twitter](https://twitter.com/revcd)&nbsp;&nbsp;&nbsp; 💼 &nbsp;[LinkedIn](https://www.linkedin.com/in/cdrev/)
+
+Currently working on:
+
+- [`uci`](https://pkg.go.dev/github.com/revett/projects/pkg/uci) - a package for interacting 
+  with chess engines that support the [Universal Chess Interface](http://wbec-ridderkerk.nl/html/UCIProtocol.html)
+  (UCI) protocol.
 
 <!--
 **revett/revett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
