@@ -1,4 +1,4 @@
-👋 &nbsp;**Hello**&nbsp;&nbsp;&nbsp;  🐦 &nbsp;[Twitter](https://twitter.com/revcd)&nbsp;&nbsp;&nbsp; 💼 &nbsp;[LinkedIn](https://www.linkedin.com/in/cdrev/)
+👋 &nbsp;**Hello**&nbsp;&nbsp;&nbsp; 🐦 &nbsp;[Twitter](https://twitter.com/revcd)&nbsp;&nbsp;&nbsp; 💼 &nbsp;[LinkedIn](https://www.linkedin.com/in/cdrev/)&nbsp;&nbsp; 🥋 [Katas](https://www.codewars.com/users/revett)
 
 Currently working on:
 
