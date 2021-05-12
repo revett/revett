@@ -2,6 +2,7 @@
 
 Currently working on:
 
+- [`titlecase`](https://github.com/revett/titlecase) - a package that applies the title case style to English text.
 - [`uci`](https://pkg.go.dev/github.com/revett/projects/pkg/uci) - a package for interacting 
   with chess engines that support the [Universal Chess Interface](http://wbec-ridderkerk.nl/html/UCIProtocol.html)
   (UCI) protocol.
