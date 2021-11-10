@@ -1,11 +1,17 @@
 👋 &nbsp;**Hello**&nbsp;&nbsp;&nbsp; 🐦 &nbsp;[Twitter](https://twitter.com/revcd)&nbsp;&nbsp;&nbsp; 💼 &nbsp;[LinkedIn](https://www.linkedin.com/in/cdrev/)&nbsp;&nbsp; 🥋 [Katas](https://www.codewars.com/users/revett)
 
-Currently working on:
+Recent projects:
 
-- [`titlecase`](https://github.com/revett/titlecase) - a package that applies the title case style to English text.
-- [`uci`](https://pkg.go.dev/github.com/revett/projects/pkg/uci) - a package for interacting 
-  with chess engines that support the [Universal Chess Interface](http://wbec-ridderkerk.nl/html/UCIProtocol.html)
-  (UCI) protocol.
+- [`everyman-rss`](https://github.com/revett/everyman-rss) - RSS feeds for Everyman Cinema film releases.
+
+Iced projects:
+
+- [`titlecase`](https://github.com/revett/titlecase) - package that applies the title case style to English text.
+
+Ongoing utility projects:
+
+- [`dev-playbook`](https://github.com/revett/dev-playbook) - Ansible playbook for macOS setup and configuration.
+- [`dotfiles`](https://github.com/revett/dotfiles) - macOS .files and configuration.
 
 <!--
 **revett/revett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
