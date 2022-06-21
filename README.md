@@ -3,28 +3,10 @@
 Recent projects:
 
 - [`everyman-rss`](https://github.com/revett/everyman-rss) - RSS feeds for Everyman Cinema film releases.
-
-Iced projects:
-
-- [`titlecase`](https://github.com/revett/titlecase) - package that applies the title case style to English text.
+- [`sepias`](https://github.com/revett/sepias) - Minimalist CLI and VS Code PKM tool for notetaking. 
 
 Ongoing utility projects:
 
 - [`common`](https://github.com/revett/common) - Shared common code for my Go projects.
 - [`dev-playbook`](https://github.com/revett/dev-playbook) - Ansible playbook for macOS setup and configuration.
 - [`dotfiles`](https://github.com/revett/dotfiles) - macOS .files and configuration.
-
-<!--
-**revett/revett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
