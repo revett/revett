@@ -8,7 +8,7 @@
 Recent projects:
 
 - [`everyman-rss`](https://github.com/revett/everyman-rss) - RSS feeds for Everyman Cinema film releases
-- [`sepias`](https://github.com/revett/sepias) - The CLI based personal knowledge management (PKM) tool
+- [`sepia`](https://github.com/revett/sepia) - CLI focused personal knowledge management tool
 
 Ongoing utility projects:
 
