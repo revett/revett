@@ -13,6 +13,5 @@ Recent projects:
 Ongoing utility projects:
 
 - [`common`](https://github.com/revett/common) - Shared common code for my Go projects
-- [`dev-playbook`](https://github.com/revett/dev-playbook) - Ansible playbook for macOS setup and configuration
 - [`dotfiles`](https://github.com/revett/dotfiles) - macOS .files and configuration
 - [`revcd.com`](https://github.com/revett/revcd.com) - Website
