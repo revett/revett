@@ -8,6 +8,7 @@
 Recent projects:
 
 - [`everyman-rss`](https://github.com/revett/everyman-rss) - RSS feeds for Everyman Cinema film releases
+- [`rss-explore`](https://github.com/revett/rss-explore) - Tools to help you easily find and manage RSS feeds
 - [`sepia`](https://github.com/revett/sepia) - CLI focused personal knowledge management tool
 
 Ongoing utility projects:
