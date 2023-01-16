@@ -15,4 +15,4 @@ Ongoing utility projects:
 
 - [`common`](https://github.com/revett/common) - Shared common code for my Go projects
 - [`dotfiles`](https://github.com/revett/dotfiles) - macOS .files and configuration
-- [`revcd.com`](https://github.com/revett/revcd.com) - Website
+- [`revcd.com`](https://github.com/revett/revcd.com) - Personal website
