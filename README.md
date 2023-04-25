@@ -6,7 +6,7 @@
 
 Recent projects:
 
-- [`atlas`](https://github.com/revett/atlas) - CLI focused personal knowledge management tool
+- [`atlas`](https://github.com/revett/atlas) - Hierarchical note-taking tool that focuses on simplicity and speed
 - [`rss-explore`](https://github.com/revett/rss-explore) - Tools to help you easily find and manage RSS feeds
 
 Ongoing utility projects:
