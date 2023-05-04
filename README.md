@@ -13,8 +13,8 @@ Ongoing utility projects:
 
 - [`common`](https://github.com/revett/common) - Shared common code for my Go projects
 - [`dotfiles`](https://github.com/revett/dotfiles) - macOS .files and configuration
-- [`revcd.com`](https://github.com/revett/revcd.com) - Personal website
 
 Archived projects:
 
-- [`everyman-rss`](https://github.com/revett/everyman-rss) - (April 2023) RSS feeds for Everyman Cinema film releases 
+- [`everyman-rss`](https://github.com/revett/everyman-rss) - (April 2023) RSS feeds for Everyman Cinema film releases
+- [`revcd.com`](https://github.com/revett/revcd.com) - Personal website (migrated to [Super](https://super.so))
