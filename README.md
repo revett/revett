@@ -6,7 +6,6 @@
 
 Recent projects:
 
-- [`atlas`](https://github.com/revett/atlas) - VS Code note-taking extension that focuses on simplicity and speed
 - [`rss-explore`](https://github.com/revett/rss-explore) - Tools to help you easily find and manage RSS feeds
 
 Ongoing utility projects:
@@ -16,5 +15,6 @@ Ongoing utility projects:
 
 Archived projects:
 
+- [`atlas`](https://github.com/revett/atlas) - (May 2023) CLI focused personal knowledge management tool
+- [`revcd.com`](https://github.com/revett/revcd.com) - (May 2023) Personal website (migrated to [Super](https://super.so))
 - [`everyman-rss`](https://github.com/revett/everyman-rss) - (April 2023) RSS feeds for Everyman Cinema film releases
-- [`revcd.com`](https://github.com/revett/revcd.com) - Personal website (migrated to [Super](https://super.so))
