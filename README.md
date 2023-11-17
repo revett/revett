@@ -12,7 +12,6 @@ Ongoing utility projects:
 
 - [`common`](https://github.com/revett/common) - Shared common code for my Go projects
 - [`dotfiles`](https://github.com/revett/dotfiles) - macOS .files and configuration
-- [`umami-docker-hub-mirror`](https://github.com/revett/umami-docker-hub-mirror) - Mirrors of official [umami-software/umami](https://github.com/umami-software/umami/pkgs/container/umami) container images to Docker Hub
 
 Archived projects:
 
