@@ -6,6 +6,7 @@
 
 Recent projects:
 
+- [`miniflux-sync`](https://github.com/revett/miniflux-sync) - Manage and sync your Miniflux feeds with YAML
 - [`rss-explore`](https://github.com/revett/rss-explore) - Tools to help you easily find and manage RSS feeds
 
 Ongoing utility projects:
