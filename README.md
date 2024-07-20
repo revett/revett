@@ -13,6 +13,7 @@ Ongoing utility projects:
 
 - [`common`](https://github.com/revett/common) - Shared common code for my Go projects
 - [`dotfiles`](https://github.com/revett/dotfiles) - macOS .files and configuration
+- [`feeds`](https://github.com/revett/feeds) - My RSS feeds, managed in Miniflux
 
 Archived projects:
 
