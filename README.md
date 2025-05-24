@@ -6,17 +6,11 @@
 
 Recent projects:
 
+- [`hops`](https://github.com/revett/hops) - Manage Homebrew packages across machines using a single YAML file
 - [`miniflux-sync`](https://github.com/revett/miniflux-sync) - Manage and sync your Miniflux feeds with YAML
 - [`rss-explore`](https://github.com/revett/rss-explore) - Tools to help you easily find and manage RSS feeds
 
 Ongoing utility projects:
 
-- [`common`](https://github.com/revett/common) - Shared common code for my Go projects
 - [`dotfiles`](https://github.com/revett/dotfiles) - macOS .files and configuration
 - [`feeds`](https://github.com/revett/feeds) - My RSS feeds, managed in Miniflux
-
-Archived projects:
-
-- [`atlas`](https://github.com/revett/atlas) - (May 2023) CLI focused personal knowledge management tool
-- [`revcd.com`](https://github.com/revett/revcd.com) - (May 2023) Personal website (migrated to [Super](https://super.so))
-- [`everyman-rss`](https://github.com/revett/everyman-rss) - (April 2023) RSS feeds for Everyman Cinema film releases
