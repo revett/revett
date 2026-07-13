@@ -6,6 +6,7 @@
 
 Recent projects:
 
+- [`geode`](https://github.com/8thpark/geode) - Remote sync, MCP, and an API for your [Obsidian](https://obsidian.md/) vault
 - [`hops`](https://github.com/revett/hops) - Manage Homebrew packages across machines using a single YAML file
 
 Ongoing utility projects:
