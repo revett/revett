@@ -6,8 +6,9 @@
 
 Active projects:
 
-- [`geode`](https://github.com/8thpark/geode) - Remote sync, MCP, and an API for your [Obsidian](https://obsidian.md/) vault
+- [`geode`](https://github.com/8thpark/geode) - Remote sync, MCP, and an API for your [Obsidian](https://obsidian.md) vault
 - [`hops`](https://github.com/revett/hops) - Manage Homebrew packages across machines using a single YAML file
+- [`typescript-as-go`](https://github.com/revett/typescript-as-go) - Skill to enforce agents to write TypeScript as if it were Go 
 
 Ongoing utility projects:
 
