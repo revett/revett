@@ -10,6 +10,7 @@
 
 ---
 
+- [`academic-papers`](https://github.com/revett/academic-papers) - Papers from my BSc on Natural Language Processing (NLP), written before LLMs
 - [`dotfiles`](https://github.com/revett/dotfiles) - Dotfiles and Claude skills/configuration
 - [`hops`](https://github.com/revett/hops) - Manage Homebrew packages across machines using a single YAML file
 - [`typescript-as-go`](https://github.com/revett/typescript-as-go) - Skill to enforce agents to write TypeScript as if it were Go 
